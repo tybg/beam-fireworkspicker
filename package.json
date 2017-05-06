@@ -1,0 +1,28 @@
+{
+  "name": "beam-fireworkspicker",
+  "version": "1.0.0",
+  "description": "a bot that allows watchers to pick a firework",
+  "main": "index.js",
+  "dependencies": {
+    "beam-client-node": "^0.13.0",
+    "beam-interactive-node": "^0.3.2",
+    "robotjs": "^0.4.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tybg/beam-fireworkspicker.git"
+  },
+  "keywords": [
+    "beam"
+  ],
+  "author": "Marten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tybg/beam-fireworkspicker/issues"
+  },
+  "homepage": "https://github.com/tybg/beam-fireworkspicker#readme"
+}
