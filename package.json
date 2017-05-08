@@ -6,6 +6,7 @@
   "dependencies": {
     "beam-client-node": "^0.13.0",
     "beam-interactive-node": "^0.3.2",
+    "beam-interactive-node2": "^0.11.0",
     "robotjs": "^0.4.7"
   },
   "devDependencies": {},
